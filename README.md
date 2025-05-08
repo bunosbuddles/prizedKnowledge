@@ -4,13 +4,13 @@ hella sauce coming soon
 
 # 1:
 
-Symbolic Compression: Turning complex ideas into compact, rapidly deployable mental structures.
+## Symbolic Compression: Turning complex ideas into compact, rapidly deployable mental structures.
 
 ### Information Theory and Compression Algorithms (Huffman, Lempel-Ziv)
 
 Why: Understanding how information can be compressed efficiently mirrors the mental process of reducing complex ideas to their essence. It also reinforces clarity and precision in your thinking.
 
-## Metaphor and Symbolism Analysis
+### Metaphor and Symbolism Analysis
 
 Why: Practice extracting and compressing the essence of complex ideas into potent metaphors. This can train your mind to communicate and think more efficiently.
 
