@@ -6,7 +6,7 @@ hella sauce coming soon
 
 Symbolic Compression: Turning complex ideas into compact, rapidly deployable mental structures.
 
-## Information Theory and Compression Algorithms (Huffman, Lempel-Ziv)
+### Information Theory and Compression Algorithms (Huffman, Lempel-Ziv)
 
 Why: Understanding how information can be compressed efficiently mirrors the mental process of reducing complex ideas to their essence. It also reinforces clarity and precision in your thinking.
 
